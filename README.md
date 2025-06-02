@@ -37,7 +37,7 @@ Cada archivo `.py` está pensado para ser corto, entendible y funcional sin inst
 1. Instala las librerías necesarias desde Simbolo de sistema (en windows) con el siguiente comando
    pip install (nombre de la libreria)
 
-🤔 ¿Por qué esta sección?
+## 🤔 ¿Por qué esta sección?
 
 Porque aprender no tiene por qué ser aburrido.
 Estas pequeñas herramientas no solo entretienen, sino que también te ayudan a mejorar tus habilidades con:
@@ -50,7 +50,7 @@ Estas pequeñas herramientas no solo entretienen, sino que también te ayudan a 
 
     -Creatividad en la resolución de problemas
    
-✨ Contribuciones
+## ✨ Contribuciones
 
 ¿Tienes una idea divertida en Python? ¡Compártela!
 Puedes hacer un pull request con tu script siguiendo el estilo del repositorio o dejar sugerencias en los issues 💬
