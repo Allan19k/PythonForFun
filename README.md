@@ -25,6 +25,7 @@ Cada archivo `.py` está pensado para ser corto, entendible y funcional sin inst
 | `random_jokes.py` | Devuelve chistes al azar para alegrar el día 😄 | `pyjokes` |
 | `pretty_tables.py` | Crea tablas con estilo para mostrar datos 🍽️ | `prettytable` |
 | `password_generator.py` | Generador de contraseñas aleatorias seguras 🔐 | `random`, `string` |
+| `periodic_table.py` | Obtener detalles de un elemento de la tabla periodica por su número atómico 👨‍🔬  | `periodictable` |
 | `ascii_banner.py` | Crea banners con estilo en ASCII 🎨 | `pyfiglet` |
 | `emoji_weather.py` | Muestra clima ficticio con emojis 🌤️🌧️ | `emoji`, `random` |
 
