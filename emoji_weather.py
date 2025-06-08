@@ -5,7 +5,6 @@ import emoji
 def get_random_weather_emoji():
     weather_emojis = [
         "☀️",  # Soleado
-        "🌤️",  # Soleado con algunas nubes
         "🌤️",  # Parcialmente soleado
         "⛅",   # Sol detrás de una nube
         "🌥️",  # Sol detrás de una nube grande
