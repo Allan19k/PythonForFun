@@ -9,10 +9,10 @@ Aquí encontrarás una colección de scripts en **Python** diseñados para exper
 
 Este espacio es un laboratorio informal de ideas donde uso Python para:
 
-- 😹 Contar chistes con `pyjokes`
+- 😹 Contar chistes de programación con `pyjokes`
 - 📊 Imprimir tablas con estilo usando `prettytable`
 - 🧠 Generar contraseñas, simulaciones, juegos, y más
-- ⏳ Crear miniprogramas que resuelven tareas cotidianas de forma elegante o divertida
+- ⏳ Crear miniprogramas que resuelven tareas cotidianas de forma elegante o divertida como `faker`
 
 Cada archivo `.py` está pensado para ser corto, entendible y funcional sin instalar demasiadas dependencias externas 🐾
 
@@ -28,6 +28,7 @@ Cada archivo `.py` está pensado para ser corto, entendible y funcional sin inst
 | `periodic_table.py` | Obtener detalles de un elemento de la tabla periodica por su número atómico 👨‍🔬  | `periodictable` |
 | `ascii_banner.py` | Crea banners con estilo en ASCII 🎨 | `pyfiglet` |
 | `emoji_weather.py` | Muestra clima ficticio con emojis 🌤️🌧️ | `emoji`, `random` |
+| `dummy_data.py` | Crea datos de prueba o datos falsos 🪪  | `faker` |
 
 > ⚠️ ¡Y más por venir! Este es un espacio en constante expansión 🚀
 
