@@ -12,7 +12,8 @@ Este espacio es un laboratorio informal de ideas donde uso Python para:
 - 😹 Contar chistes de programación con `pyjokes`
 - 📊 Imprimir tablas con estilo usando `prettytable`
 - 🧠 Generar contraseñas, simulaciones, juegos, y más
-- ⏳ Crear miniprogramas que resuelven tareas cotidianas de forma elegante o divertida como `faker`
+- ⏳ Crear miniprogramas que resuelven tareas cotidianas de forma elegante o divertida
+- entre otras ideas
 
 Cada archivo `.py` está pensado para ser corto, entendible y funcional sin instalar demasiadas dependencias externas 🐾
 
