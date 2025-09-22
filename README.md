@@ -31,6 +31,7 @@ Cada archivo `.py` está pensado para ser corto, entendible y funcional sin inst
 | `emoji_weather.py` | Muestra clima ficticio con emojis 🌤️🌧️ | `emoji`, `random` |
 | `dummy_data.py` | Crea datos de prueba o datos falsos 🪪  | `faker` |
 | `country_info.py` | Obtener información básica de un país cualquiera 🇲🇽 🇺🇸 🇨🇦  | `countryinfo` |
+| `hiding_password.py` | Ocultar una contraseña de un inicio de sesión mientras el usuario la teclea 🕵️ | `getpass` |
 
 > ⚠️ ¡Y más por venir! Este es un espacio en constante expansión 🚀
 
