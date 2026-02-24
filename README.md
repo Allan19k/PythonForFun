@@ -33,6 +33,7 @@ Cada archivo `.py` está pensado para ser corto, entendible y funcional sin inst
 | `country_info.py` | Obtener información básica de un país cualquiera 🇲🇽 🇺🇸 🇨🇦  | `countryinfo` |
 | `hiding_password.py` | Ocultar una contraseña de un inicio de sesión mientras el usuario la teclea 🕵️ | `getpass` |
 | `whatsApp.py` | Programar el envío automático de mensajes de WhatsApp 💬 | `pywhatkit` |
+| `automating_tasks` | Programar la automatización de una tarea para que se ejecute cada cierto tiempo 🕰️ | `schedule,` `time` |
 
 
 > ⚠️ ¡Y más por venir! Este es un espacio en constante expansión 🚀
