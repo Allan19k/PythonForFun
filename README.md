@@ -36,6 +36,7 @@ Cada archivo `.py` está pensado para ser corto, entendible y funcional sin inst
 | `automating_tasks.py` | Programar la automatización de una tarea para que se ejecute cada cierto tiempo 🕰️ | `schedule`, `time` |
 | `encrypt_decrypt_message.py` | Encriptar y Desencriptar mensajes 🕵️‍♂️ | `criptography` |
 | `molecule_structures.py` | Representar y visualizar estructuras moleculares (como agua, metano o glucosa) de forma gráfica 🧪 | `rdkit` |
+| `digital_logic_circuit.py` | Construir y visualizar circuitos de lógica digital 🔩 | `schemdraw` |
 
 
 
